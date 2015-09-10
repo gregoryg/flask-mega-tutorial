@@ -1,0 +1,11 @@
+* flask-mega-tutorial
+
+** Description
+   
+   This is my working through the mega-tutorial by Miguel Grinberg for the Flask web app
+   framework used with Python
+
+   The tutorial series can be found at
+   http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+
